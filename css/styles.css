@@ -1,0 +1,177 @@
+h1{
+    color: green;
+    position: absolute;
+} 
+
+h2{
+    color: green;
+}
+
+header{
+    position: relative;
+    height: 80px;
+}
+
+nav{
+    position: absolute;
+    right: 20px;
+    justify-content: space-around;
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    color:rgb(112, 175, 127) ;
+}
+
+a{
+    color: rgb(112, 175, 127) ;
+    right: 20px;
+    top: 80px;
+}
+
+nav li{
+    display: inline;
+}
+
+body{
+    background-image: url("https://i.pinimg.com/736x/9e/a7/ed/9ea7edced5c0c1cc1492aeac8635358f.jpg");
+    background-size: cover;
+}
+
+.parrafo_uno{
+    color: rgb(50, 94, 57);
+    font-size: medium;
+}
+
+h3{
+    color: rgb(76, 131, 89);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h4{
+    color: rgb(76, 131, 89) ;
+}
+
+section{
+    position: static;
+}
+
+.parrafo_dos{
+    color: palevioletred;
+    font-size: x-large;
+    text-align: center;
+}
+
+.parrafo_tres{
+    color: rgb(112, 175, 127) ;
+}
+
+
+.ulredes{
+    color:rgb(112, 175, 127) ;
+    list-style: none;
+    justify-content: space-around;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ol{
+    color:rgb(112, 175, 127) ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ul{
+    color:rgb(112, 175, 127) ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.caveat- {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-size: xx-large;
+}
+
+.yeseva-one-regular {
+    font-family: "Yeseva One", serif;
+    font-weight: 10;
+    font-style: small;
+  }
+
+.selector{
+    max-width: 55%;
+    background-color: rgb(245, 223, 233);
+    border: 2px solid rgb(112, 175, 127);
+    padding:10px;
+    margin:10px;
+}
+
+.style{
+    max-width: 100%;
+    position: relative;
+    background-color: rgb(250, 189, 189);
+    max-width: 100%;
+}
+
+.style2{
+    max-width: 100%;
+    background-color: rgb(245, 223, 233);
+    border: 2px solid rgb(112, 175, 127);
+    padding:10px;
+    margin:10px;
+}
+
+.card{
+    position: relative;
+    width: 300px;
+    border: 2px solid;
+    border-color: rgb(87, 112, 98);
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(186, 218, 196) ;
+    padding: 15px;
+    border-radius:  10px;
+    margin-bottom: 50px;
+}
+
+.contenedor_limite{
+    background-color: brown;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.contenedor_padre{
+    position: relative;
+    display: flex;
+    height: 350px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.fooo{
+    background-color: rgb(211, 245, 211);
+}
+
+.cabeza{
+    background-color: rgb(49, 66, 51);
+}
+
+.barra{
+    justify-content: space-around;
+}
+
+.gengar{
+    position: absolute;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 50px;
+}
